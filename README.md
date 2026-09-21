@@ -19,7 +19,7 @@ You will need:
 
 [Rutgers Chat GPT Log In](https://software.rutgers.edu/software/license/156771/)
 
-2. Use NETID@rutgers.edu as your username.
+2. Use <NETID>@rutgers.edu as your username.
 
 3. Complete Rutgers single sign-on and Duo 2FA.
 
