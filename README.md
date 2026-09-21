@@ -27,7 +27,6 @@ You will need:
 
 5. Optional - install chatGPT desktop app. 
 
-
 ## 2. Confirm you have a Github account. If you don't already have a GitHub account, please create one
 
 1. Go to [GitHub](https://github.com/).
