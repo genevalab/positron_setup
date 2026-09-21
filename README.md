@@ -107,18 +107,9 @@ If the official Codex extension is unavailable in Positron. Tell me! **Do not do
 
 ## 6. Connect Positron to GitHub
 
-1. In Positron, open the Command Palette.
+1. Select the **Extensions** icon on the left side of the window.
 
-   - **macOS:** `Cmd + Shift + P`
-   - **Windows/Linux:** `Ctrl + Shift + P`
-
-2. Search for:
-
-   ```text
-   GitHub: Sign in
-   ```
-
-3. Select the GitHub sign-in command.
+3. Select the GitHub Pull Requests extension.
 
 4. Your browser will open. Sign in to GitHub.
 
