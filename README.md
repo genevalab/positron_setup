@@ -58,11 +58,11 @@ Positron is a development environment for working with R, Python, notebooks, and
 
 5. Open Positron after installation.
 
-Positron generally works immediately after installation. Students using R or Python may also need to install R or Python separately. Positron’s official documentation lists the current language requirements.
+Positron should work immediately after installation but you may also need to install or update R or Python if you haven't already.
 
 ## 4. Install the Codex extension in Positron
 
-Positron is based on Code OSS and supports many Visual Studio Code extensions. However, Positron uses the Open VSX or Posit package gallery rather than Microsoft’s Visual Studio Code Marketplace. Therefore, the Codex extension may not appear in every Positron installation. Let me know if you can't find it after following the instructions below.
+Positron supports many Visual Studio Code extensions. However, Positron uses open source package galleries rather than Microsoft’s Visual Studio Code Marketplace. As a result, the Codex extension may not appear in every Positron installation. Let me know if you can't find it after following the instructions below.
 
 1. Open Positron.
 
@@ -74,7 +74,7 @@ Positron is based on Code OSS and supports many Visual Studio Code extensions. H
    Codex
    ```
 
-4. Locate the official Codex extension published by OpenAI.
+4. Locate the official Codex extension **published by OpenAI**.
 
 5. Select **Install**.
 
@@ -107,13 +107,6 @@ If the official Codex extension is unavailable in Positron. Tell me! **Do not do
 
 ## 6. Connect Positron to GitHub
 
-There are two related connections:
-
-- Positron’s local Git tools, which let you commit and manage files
-- GitHub authentication, which lets you clone, pull, and push repositories
-
-### Option A: Connect using GitHub in your browser
-
 1. In Positron, open the Command Palette.
 
    - **macOS:** `Cmd + Shift + P`
@@ -136,22 +129,6 @@ There are two related connections:
 7. Return to Positron.
 
 GitHub may show an authorization screen. Review the requested permissions before selecting **Authorize**. See GitHub’s documentation on [authorizing OAuth apps](https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/authorizing-oauth-apps).
-
-### Option B: Clone a GitHub repository
-
-1. Copy the repository URL from GitHub.
-
-2. In Positron, open the Command Palette.
-
-3. Select **Git: Clone**.
-
-4. Paste the repository URL.
-
-5. Choose a folder where you want to save the project.
-
-6. Open the cloned project in Positron.
-
-7. Make a small test change, save it, and check the Source Control panel.
 
 
 ## 7. Test the setup
